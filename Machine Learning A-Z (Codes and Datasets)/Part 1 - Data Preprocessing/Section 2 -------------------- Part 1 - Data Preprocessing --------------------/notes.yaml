@@ -1,0 +1,8 @@
+Data Preparation:
+  - import libraries
+  - import dataset
+  - rectify missing data:
+    - either remove or get average
+  - encoding categorical data:
+    - e.g. turn names into special encodings france to 0, 0, 1
+    -
