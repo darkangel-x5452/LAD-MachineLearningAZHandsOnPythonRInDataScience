@@ -12,17 +12,22 @@ training_set = subset(dataset, split == TRUE)
 test_set = subset(dataset, split == FALSE)
 
 # Feature Scaling
+# The simple regression package in R takes care of feature scaling so no need to apply
 # training_set = scale(training_set)
 # test_set = scale(test_set)
 
 # Fitting Simple Linear Regression to the Training set
 regressor = lm(formula = Salary ~ YearsExperience,
                data = training_set)
+# Useful info hint
+# summary(regressor)
 
 # Predicting the Test set results
 y_pred = predict(regressor, newdata = test_set)
+# y_predict
 
 # Visualising the Training set results
+#install.packages('ggplot2')
 library(ggplot2)
 ggplot() +
   geom_point(aes(x = training_set$YearsExperience, y = training_set$Salary),

@@ -5,4 +5,5 @@ Data Preparation:
     - either remove or get average
   - encoding categorical data:
     - e.g. turn names into special encodings france to 0, 0, 1
-    -
+  - train test split the data
+  - feature scale the data
