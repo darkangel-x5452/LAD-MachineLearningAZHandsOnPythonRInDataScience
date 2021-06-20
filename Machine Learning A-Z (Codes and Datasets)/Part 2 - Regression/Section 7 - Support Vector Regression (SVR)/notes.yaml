@@ -1,0 +1,4 @@
+- Good for nonlinear data
+Python:
+  - "regressor = SVR(kernel = 'rbf')"
+    - Recommended to use rbf when testing the svr for charting
