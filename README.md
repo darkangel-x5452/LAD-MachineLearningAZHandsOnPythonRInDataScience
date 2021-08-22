@@ -1,7 +1,7 @@
 # machine-learning-a-z-hands-on-python-r-in-data-science
-Machine Learning A-Z™: Hands-On Python &amp; R In Data Science by Kirill Eremenko, Hadelin de Ponteves
 Udemy Course
 
+Machine Learning A-Z™: Hands-On Python &amp; R In Data Science by Kirill Eremenko, Hadelin de Ponteves
 
 ## Key items taught:
 * Training in both Python and R
@@ -59,8 +59,7 @@ Udemy Course
 * Example of wine data set, with customer segment based on wine features. Firstly cluster the customer segments (already done into 3 segments). Then create a predictive model that predicts which new wines will belong to which customer segment.
 
 #### Section 44 - Linear Discriminant Analysis (LDA)
-* Example of wine data set, with custome
-r segment based on wine features. Firstly cluster the customer segments (already done into 3 segments). Then create a predictive model that predicts which new wines will belong to which customer segment.
+* Example of wine data set, with customer segment based on wine features. Firstly cluster the customer segments (already done into 3 segments). Then create a predictive model that predicts which new wines will belong to which customer segment.
 
 #### Section 45 - Kernel PCA
 * Example of wine data set, with customer segment based on wine features. Firstly cluster the customer segments (already done into 3 segments). Then create a predictive model that predicts which new wines will belong to which customer segment.
