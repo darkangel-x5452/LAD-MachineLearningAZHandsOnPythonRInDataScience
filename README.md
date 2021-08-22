@@ -1,6 +1,6 @@
 # machine-learning-a-z-hands-on-python-r-in-data-science
 Machine Learning A-Z™: Hands-On Python &amp; R In Data Science by Kirill Eremenko, Hadelin de Ponteves
-Udemy: https://www.udemy.com/course/machinelearning/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Python_v.PROF_la.EN_cc.AU_ti.7380_Q3CP2021&utm_content=deal4584&utm_term=_._ag_131385199328_._ad_538583980684_._kw__._de_c_._dm__._pl__._ti_dsa-840427733208_._li_9071759_._pd__._&matchtype=b
+Udemy Course
 
 
 ## Key items taught:
